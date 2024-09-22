@@ -14,3 +14,6 @@ Find Similar movies to your favourite movies.
   
 - Your website will be launched locally.
 - Now by using streamlit you can host your website publically also.
+
+
+  ![Website image](similar.png)
